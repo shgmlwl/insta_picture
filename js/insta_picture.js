@@ -26,10 +26,6 @@
     "image/picture/picture_23.jpeg",
     "image/picture/picture_24.jpeg",
     "image/picture/picture_25.jpeg",
-    "image/picture/picture_26.jpeg",
-    "image/picture/picture_27.jpeg",
-    "image/picture/picture_28.jpeg",
-    "image/picture/picture_29.jpeg",
   ];
 
   let thumbs = []; // p5.Image[]
@@ -213,5 +209,5 @@
 const close_icon = document.querySelector("#close_icon");
 console.log(close_icon);
 close_icon.addEventListener("click", () => {
-  location.href = "/main.html";
+  location.href = "https://shgmlwl.github.io/insta_main_page/";
 });
